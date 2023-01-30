@@ -1,0 +1,27 @@
+{
+  "name": "candido67spagithub.io",
+  "version": "1.0.0",
+  "description": "Una Single-Page Application (SPA) es un tipo de aplicación web que ejecuta todo su contenido en una sola página. Funciona cargando el contenido HTML, CSS y JavaScript por completo al abrir la web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candido67/candido67SpaGithub.io.git"
+  },
+  "author": "Candido Zamora Cuapio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candido67/candido67SpaGithub.io/issues"
+  },
+  "homepage": "https://github.com/candido67/candido67SpaGithub.io#readme",
+  "keywords": [
+    "API",
+    "Rest"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
